@@ -1,0 +1,2 @@
+# proje
+proje1django
